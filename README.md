@@ -30,6 +30,20 @@ Task:
 Lab 9 - Circular Linked List (Insert & Display Nodes)  
 Task: Implement functions to insert node at first, last, Nth location, and centre of a circular linked list. And display in order and display in reverse order.
 
-Task: 
-1. Create 2 Singly LinkedLists and Merge them and display them.
-2. Create 2 Double LinkedLists and Merge them and display them.
+Lab 10 - Stack with Linkedlist and Array
+Tasks:
+1. With Array; Push, Pop, Display 
+2. With Linkedlist; Push, Pop, Display
+
+Lab 11 - Queue with Linkedlist and Array
+Tasks:
+1. With Array; Enqueue, Dequeue, Display 
+2. With Linkedlist; Enqueue, Dequeue, Display
+
+Lab 12 -  BST and AVL
+1. Insert and Traverse for BST
+2. Insert and Traverse for AVL
+
+Submit all tasks on GitHub 
+1. Word File: Explain the code, how and why, and screenshot of output.
+2. Code File: .cpp file
