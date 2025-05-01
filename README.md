@@ -44,6 +44,12 @@ Lab 12 -  BST and AVL
 1. Insert and Traverse for BST
 2. Insert and Traverse for AVL
 
+Lab 13 -  DFS and BFS
+1. Insert and Traverse for DFS in tree
+2. Insert and Traverse for DFS in graph
+3. Insert and Traverse for BFS in tree
+4. Insert and Traverse for BFS in graph
+
 Submit all tasks on GitHub 
 1. Word File: Explain the code, how and why, and screenshot of output.
 2. Code File: .cpp file
